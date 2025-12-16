@@ -1,4 +1,16 @@
-# Cookies Giveaway
+# Cookies Draw App
+
+Cookie Draw App is a Progressive Web Application (PWA) designed to perform cookie-based draws in a simple and interactive way. The application combines a modern web interface with backend services to manage draws, users, and notifications.
+
+---
+
+## Overview
+
+The system is composed of a **PWA frontend** with **push notification support**, allowing users to receive real-time updates about draws, and a **Node.js backend built with Express**, which exposes a **RESTful API** for managing application logic and data persistence.
+
+All data is stored in a **MongoDB database**, ensuring reliable storage of draw results and application information. The architecture follows a clear separation between frontend and backend, making the project scalable and easy to maintain.
+
+---
 
 ## Framework7 CLI Options
 
